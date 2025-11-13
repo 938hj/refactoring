@@ -1,3 +1,4 @@
+5d0e23a Task 2.4: split loops and extract total amount/credits
 f255351 Task 2.3: refactor usd and remove format variable
 b5bf0c6 Task 2.2: extract getVolumeCredits helper
 760004d Task 2.1: decompose statement with getAmount/getPlay
