@@ -1,3 +1,4 @@
+f255351 Task 2.3: refactor usd and remove format variable
 b5bf0c6 Task 2.2: extract getVolumeCredits helper
 760004d Task 2.1: decompose statement with getAmount/getPlay
 53c5cf3 Task 2.1: extract getAmount and remove play parameter
